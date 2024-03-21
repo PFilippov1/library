@@ -239,7 +239,7 @@ body {
   width: 100vw;
 }
 .welcome {
-  background: url(../library/assets/img/Welcome.png);
+  background: url(assets/img/Welcome.png);
   height: 100%;
   width: 100%;
   overflow: hidden;
@@ -2201,7 +2201,7 @@ footer {
 /* section welcome */
 @media screen and (max-width: 770px) {
   .welcome {
-    background: url(../library/assets/img/Welcome_tablet.png);
+    background: url(assets/img/Welcome_tablet.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
